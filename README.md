@@ -6,7 +6,7 @@
 ---
 
 👨‍💻 About Me
-- 🌱 Currently learning **HTML, CSS, JavaScript, Node.js, MongoDB**
+- 🌱 I have learned **HTML, CSS, JavaScript, Node.js, MongoDB**
 - 🧪 Interested in **Software Testing & Automation (Selenium) and frontend coding**
 - 🛠️ Working on academic and personal web development projects
 - 📚 Focused on improving problem-solving and clean coding skills
