@@ -6,11 +6,11 @@
 ---
 
 👨‍💻 About Me
-🎓 Completed my Web Development studies and built multiple full-stack and testing projects
-💻 Skilled in HTML, CSS, JavaScript, Node.js, MongoDB, and Selenium Automation
-🧪 Passionate about building clean, user-friendly interfaces and writing reliable test cases
-🛠️ Experienced in academic and personal projects involving real-world scenarios
-📚 Always learning and improving my coding and problem-solving skills
+-🎓 Completed my Web Development studies and built multiple full-stack and testing projects
+-💻 Skilled in HTML, CSS, JavaScript, Node.js, MongoDB, and Selenium Automation
+-🧪 Passionate about building clean, user-friendly interfaces and writing reliable test cases
+-🛠️ Experienced in academic and personal projects involving real-world scenarios
+-📚 Always learning and improving my coding and problem-solving skills
 
 ---
 
