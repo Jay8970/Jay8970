@@ -6,10 +6,11 @@
 ---
 
 👨‍💻 About Me
-- 🌱 I have learned **HTML, CSS, JavaScript, Node.js, MongoDB**
-- 🧪 Interested in **Software Testing & Automation (Selenium) and frontend coding**
-- 🛠️ Working on academic and personal web development projects
-- 📚 Focused on improving problem-solving and clean coding skills
+🎓 Completed my Web Development studies and built multiple full-stack and testing projects
+💻 Skilled in HTML, CSS, JavaScript, Node.js, MongoDB, and Selenium Automation
+🧪 Passionate about building clean, user-friendly interfaces and writing reliable test cases
+🛠️ Experienced in academic and personal projects involving real-world scenarios
+📚 Always learning and improving my coding and problem-solving skills
 
 ---
 
